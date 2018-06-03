@@ -1,0 +1,7 @@
+
+# keep files composer creates out of the git repo
+src/vendor/*
+src/composer.lock
+
+# a build script we don't need in repo
+build.sh
