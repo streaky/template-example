@@ -1,0 +1,22 @@
+{
+  "name": "streaky/template-example",
+  "description": "Example project for my template engine, you don't need this, it's just an example",
+  "type": "project",
+  "homepage": "https://github.com/streaky/template-example",
+  "license": "MIT",
+  "readme": "../README",
+  "authors": [{
+    "name": "Martin Nicholls",
+    "email": "azyqxt6gzrtd@streaky.me",
+    "homepage": "https://github.com/streaky",
+    "role": "Developer"
+  }],
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/streaky/template.git"
+  }],
+  "require": {
+    "php": ">=5.4.0",
+    "streaky/template": "dev-master"
+  }
+}
