@@ -1,0 +1,4 @@
+
+# keep files composer creates out of the git repo
+vendor/*
+composer.lock
